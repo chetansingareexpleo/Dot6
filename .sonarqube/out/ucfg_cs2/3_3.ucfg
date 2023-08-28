@@ -1,15 +1,27 @@
 
-Program.Configuration.setN
-DC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Program.csB (E"0*Ÿ
-0F (F¬
-©
-: (FS	
-Program"F
-Configuration5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*B@
->
-value5Microsoft.Extensions.Configuration.IConfigurationRoot"a
-: (FU*S	
-Program"F
-Configuration5Microsoft.Extensions.Configuration.IConfigurationRoot:@>
-value5Microsoft.Extensions.Configuration.IConfigurationRootB"	
-Program
+¤TemplateApp.ConsoleApp.ConsoleService.ConsoleService(Microsoft.Extensions.Hosting.IHostApplicationLifetime, TemplateApp.Application.Interfaces.IMyAppExampleService)U
+KC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs ("1*
+1	 (	*
+0*¼
+0 ((Ï
+Ì
+ (&p'
+%TemplateApp.ConsoleApp.ConsoleService"E
+_appLifeTime5Microsoft.Extensions.Hosting.IHostApplicationLifetime"__id*HF
+D
+appLifeTime5Microsoft.Extensions.Hosting.IHostApplicationLifetimeÕ
+Ò
+ ((s'
+%TemplateApp.ConsoleApp.ConsoleService"H
+_myAppService7TemplateApp.Application.Interfaces.IMyAppExampleService"__id*KI
+G
+myAppService7TemplateApp.Application.Interfaces.IMyAppExampleService*
+2*.
+2	 (	"
+ (	
+implicit return:P
+ (BD
+appLifeTime5Microsoft.Extensions.Hosting.IHostApplicationLifetime:S
+D (eG
+myAppService7TemplateApp.Application.Interfaces.IMyAppExampleServiceB)'
+%TemplateApp.ConsoleApp.ConsoleService

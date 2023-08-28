@@ -1,32 +1,33 @@
 
-TTemplateApp.ConsoleApp.ConsoleService.StartAsync(System.Threading.CancellationToken)U
-KC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs ("0*¦
-0 &(%Æ
-Ã
- (;
-%05Microsoft.Extensions.Hosting.IHostApplicationLifetime"__id*tr*p'
-%TemplateApp.ConsoleApp.ConsoleService"E
-_appLifeTime5Microsoft.Extensions.Hosting.IHostApplicationLifetimeÞÛ
- (+(
-%1"System.Threading.CancellationToken"LMicrosoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStarted.get*?=
-;
-%05Microsoft.Extensions.Hosting.IHostApplicationLifetime2ApplicationStarted.get·
-´
- $(4
-%2.System.Threading.CancellationTokenRegistration":System.Threading.CancellationToken.Register(System.Action)*,*
+Program.Main(string[])N
+DC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Program.cs	 	("0*û
+0 (ˆ
+…
+ (2/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"#Program.CreateHostBuilder(string[])*"	
+Program*
+
+argsstring[]¨¥
+ (:(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*31
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()l
+j
+ (:*
+host"Microsoft.Extensions.Hosting.IHost"__id*,*
 (
-%1"System.Threading.CancellationToken*
-""
-
-& &(%!
-%3System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*!"
-System.Threading.Tasks.Task"/
-& &(&#
-!
-%3System.Threading.Tasks.Task*.
-1'	 '(	"
-' '(	
-implicit return:C
- (B7
-cancellationToken"System.Threading.CancellationTokenB)'
-%TemplateApp.ConsoleApp.ConsoleService
+%1"Microsoft.Extensions.Hosting.IHostÂ
+¿
+ (!
+%2System.Threading.Tasks.Task"Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(Microsoft.Extensions.Hosting.IHost, System.Threading.CancellationToken)*DB"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions*.,
+*
+host"Microsoft.Extensions.Hosting.IHost*
+""*
+1*.
+1 ("
+ (
+implicit return:
+	 	((
+argsstring[]B"	
+Program

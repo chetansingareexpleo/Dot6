@@ -1,7 +1,7 @@
-organization=dotnet1
-projectKey=dotnet1_dotnet
+organization=dotnet6
+projectKey=dotnet6_dotnet6
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.45575
-dashboardUrl=https://sonarcloud.io/dashboard?id=dotnet1_dotnet
-ceTaskId=AYor_eXrC5kvvPhJ7Mpo
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYor_eXrC5kvvPhJ7Mpo
+dashboardUrl=https://sonarcloud.io/dashboard?id=dotnet6_dotnet6
+ceTaskId=AYo6sRUZtR11lBa6v1Eb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYo6sRUZtR11lBa6v1Eb

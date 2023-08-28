@@ -7,7 +7,7 @@
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
   <SonarQubeVersion>8.0.0.45575</SonarQubeVersion>
-  <SonarProjectKey>dotnet1_dotnet</SonarProjectKey>
+  <SonarProjectKey>dotnet6_dotnet6</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />
@@ -154,7 +154,7 @@ Automatic Analysis for .Net projects will not be available between 12:00 CET and
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">https://sonarcloud.io</Property>
-    <Property Name="sonar.organization">dotnet1</Property>
+    <Property Name="sonar.organization">dotnet6</Property>
   </LocalSettings>
   <AnalyzersSettings>
     <AnalyzerSettings>

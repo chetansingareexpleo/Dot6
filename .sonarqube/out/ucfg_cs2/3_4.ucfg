@@ -1,17 +1,36 @@
 
-STemplateApp.ConsoleApp.ConsoleService.StopAsync(System.Threading.CancellationToken)U
-KC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs) )("0*¬
-0+ +(%Å
-
-+ +(%!
-%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*!"
-System.Threading.Tasks.Task"/
-+ +(&#
-!
-%0System.Threading.Tasks.Task*.
-1,	 ,(	"
-, ,(	
-implicit return:C
-) )(A7
-cancellationToken"System.Threading.CancellationTokenB)'
-%TemplateApp.ConsoleApp.ConsoleService
+åTemplateApp.ConsoleApp.Configuration.DependencyInjectionConfig.RegisterServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)n
+dC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Configuration\DependencyInjectionConfig.cs
+) 
+(9"0*€
+
+0 (®
+•
+ (7A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"ØMicrosoft.Extensions.DependencyInjection.ServiceCollectionHostedServiceExtensions.AddHostedService<THostedService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*WU"S
+QMicrosoft.Extensions.DependencyInjection.ServiceCollectionHostedServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection£
+†
+ (=A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection£
+†
+ (NA
+%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*QO"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*KI
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection"U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*.
+1	 (	"
+ (	
+implicit return:S
+
+: 
+(ZG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionBB"@
+>TemplateApp.ConsoleApp.Configuration.DependencyInjectionConfig

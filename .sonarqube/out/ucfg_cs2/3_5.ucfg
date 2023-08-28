@@ -1,33 +1,17 @@
 
-Program.Main(string[])N
-DC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Program.cs	 	("0*˚
-0 (à
-Ö
- (2/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"#Program.CreateHostBuilder(string[])*"	
-Program*
-
-argsstring[]®•
- (:(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*31
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()l
-j
- (:*
-host"Microsoft.Extensions.Hosting.IHost"__id*,*
-(
-%1"Microsoft.Extensions.Hosting.IHost¬
-ø
- (!
-%2System.Threading.Tasks.Task"èMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(Microsoft.Extensions.Hosting.IHost, System.Threading.CancellationToken)*DB"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions*.,
-*
-host"Microsoft.Extensions.Hosting.IHost*
-""*
-1*.
-1 ("
- (
-implicit return:
-	 	((
-argsstring[]B"	
-Program
+STemplateApp.ConsoleApp.ConsoleService.StopAsync(System.Threading.CancellationToken)U
+KC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs) )("0*¬
+0+ +(%Å
+
++ +(%!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*!"
+System.Threading.Tasks.Task"/
++ +(&#
+!
+%0System.Threading.Tasks.Task*.
+1,	 ,(	"
+, ,(	
+implicit return:C
+) )(A7
+cancellationToken"System.Threading.CancellationTokenB)'
+%TemplateApp.ConsoleApp.ConsoleService
