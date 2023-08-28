@@ -1,0 +1,17 @@
+
+STemplateApp.ConsoleApp.ConsoleService.StopAsync(System.Threading.CancellationToken)U
+KC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs) )("0*¬
+0+ +(%Å
+
++ +(%!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*!"
+System.Threading.Tasks.Task"/
++ +(&#
+!
+%0System.Threading.Tasks.Task*.
+1,	 ,(	"
+, ,(	
+implicit return:C
+) )(A7
+cancellationToken"System.Threading.CancellationTokenB)'
+%TemplateApp.ConsoleApp.ConsoleService

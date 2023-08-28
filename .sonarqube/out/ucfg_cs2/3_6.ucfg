@@ -1,0 +1,32 @@
+
+TTemplateApp.ConsoleApp.ConsoleService.StartAsync(System.Threading.CancellationToken)U
+KC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs ("0*¶
+0 &(%∆
+√
+ (;
+%05Microsoft.Extensions.Hosting.IHostApplicationLifetime"__id*tr*p'
+%TemplateApp.ConsoleApp.ConsoleService"E
+_appLifeTime5Microsoft.Extensions.Hosting.IHostApplicationLifetimeﬁ€
+ (+(
+%1"System.Threading.CancellationToken"LMicrosoft.Extensions.Hosting.IHostApplicationLifetime.ApplicationStarted.get*?=
+;
+%05Microsoft.Extensions.Hosting.IHostApplicationLifetime2ApplicationStarted.get∑
+¥
+ $(4
+%2.System.Threading.CancellationTokenRegistration":System.Threading.CancellationToken.Register(System.Action)*,*
+(
+%1"System.Threading.CancellationToken*
+""Å
+
+& &(%!
+%3System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get*!"
+System.Threading.Tasks.Task"/
+& &(&#
+!
+%3System.Threading.Tasks.Task*.
+1'	 '(	"
+' '(	
+implicit return:C
+ (B7
+cancellationToken"System.Threading.CancellationTokenB)'
+%TemplateApp.ConsoleApp.ConsoleService

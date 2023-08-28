@@ -1,0 +1,65 @@
+
+8TemplateApp.Data.Configuration.AppSettings.AppSettings()Z
+PC:\Users\csingare\Desktop\Dot6\src\TemplateApp.Data\Configuration\AppSettings.cs ("1*
+1	 (	*
+0*È
+0" (ÖÇ
+, (F=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilder¨
+©
+0 (D
+
+%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*A?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilderõ
+ò
+" (FC
+builder8Microsoft.Extensions.Configuration.IConfigurationBuilder"__id*A?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder`
+^
+- (D
+%2System.AppDomain""System.AppDomain.CurrentDomain.get*"
+System.AppDomainZ
+X
+- (R
+%3string""System.AppDomain.BaseDirectory.get*
+
+%2System.AppDomainÉ
+Ä
+  (g
+%4string"&System.IO.Path.Combine(string, string)*"
+System.IO.Path*
+
+%3string*
+appsettings.json˝
+˙
+ (h>
+%58Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*DB"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*GE
+C
+builder8Microsoft.Extensions.Configuration.IConfigurationBuilder*
+
+%4stringﬁ€
+ (&;
+%65Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*GE
+C
+builder8Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()ì
+ê
+ (&=
+root5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*?=
+;
+%65Microsoft.Extensions.Configuration.IConfigurationRootƒ
+¡
+ (
+
+%7void"vMicrosoft.Extensions.Configuration.ConfigurationBinder.Bind(Microsoft.Extensions.Configuration.IConfiguration, object)*<:"8
+6Microsoft.Extensions.Configuration.ConfigurationBinder*A?
+=
+root5Microsoft.Extensions.Configuration.IConfigurationRoot*0.,
+*TemplateApp.Data.Configuration.AppSettings*
+2*.
+2	 (	"
+ (	
+implicit returnB.,
+*TemplateApp.Data.Configuration.AppSettings

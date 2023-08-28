@@ -1,0 +1,4 @@
+﻿C:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Configuration\DependencyInjectionConfig.cs
+C:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\ConsoleService.cs
+C:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Program.cs
+C:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\appsettings.json

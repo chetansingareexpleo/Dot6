@@ -1,0 +1,37 @@
+
+ITemplateApp.Application.Services.MyAppExampleService.ShowAppSettingsUse()d
+ZC:\Users\csingare\Desktop\Dot6\src\TemplateApp.Application\Services\MyAppExampleService.cs (."0*¿
+0 (5¿
+¼
+% (10
+%0*TemplateApp.Data.Configuration.AppSettings"__id*xv*t6
+4TemplateApp.Application.Services.MyAppExampleService":
+_appSettings*TemplateApp.Data.Configuration.AppSettings¬
+©
+% (;-
+%1'TemplateApp.Data.Configuration.EndPoint"8TemplateApp.Data.Configuration.AppSettings.EndPoints.get*42
+0
+%0*TemplateApp.Data.Configuration.AppSettings…
+‚
+% (E
+%2string"5TemplateApp.Data.Configuration.EndPoint.UrlWebApi.get*1/
+-
+%1'TemplateApp.Data.Configuration.EndPointB
+@
+ (E
+urlFromAppSettingsstring"__id*
+
+%2string¸
+µ
+ (6*
+%3$System.Threading.Tasks.Task<TResult>"8System.Threading.Tasks.Task.FromResult<TResult>(TResult)*!"
+System.Threading.Tasks.Task* 
+
+urlFromAppSettingsstring"8
+ (7,
+*
+%3$System.Threading.Tasks.Task<TResult>*.
+1	 (	"
+ (	
+implicit returnB86
+4TemplateApp.Application.Services.MyAppExampleService

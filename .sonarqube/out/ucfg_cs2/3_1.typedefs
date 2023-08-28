@@ -1,0 +1,5 @@
+–
+%TemplateApp.ConsoleApp.ConsoleServiceobject+Microsoft.Extensions.Hosting.IHostedService§
+~ConsoleService(Microsoft.Extensions.Hosting.IHostApplicationLifetime, TemplateApp.Application.Interfaces.IMyAppExampleService)¤TemplateApp.ConsoleApp.ConsoleService.ConsoleService(Microsoft.Extensions.Hosting.IHostApplicationLifetime, TemplateApp.Application.Interfaces.IMyAppExampleService)†
+.StartAsync(System.Threading.CancellationToken)TTemplateApp.ConsoleApp.ConsoleService.StartAsync(System.Threading.CancellationToken)„
+-StopAsync(System.Threading.CancellationToken)STemplateApp.ConsoleApp.ConsoleService.StopAsync(System.Threading.CancellationToken)

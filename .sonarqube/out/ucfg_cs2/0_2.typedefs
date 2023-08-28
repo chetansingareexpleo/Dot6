@@ -1,0 +1,7 @@
+³
+*TemplateApp.Data.Configuration.AppSettingsobjectI
+AppSettings()8TemplateApp.Data.Configuration.AppSettings.AppSettings()I
+EndPoints.get8TemplateApp.Data.Configuration.AppSettings.EndPoints.getI
+EndPoints.set8TemplateApp.Data.Configuration.AppSettings.EndPoints.setM
+Application.get:TemplateApp.Data.Configuration.AppSettings.Application.getM
+Application.set:TemplateApp.Data.Configuration.AppSettings.Application.set

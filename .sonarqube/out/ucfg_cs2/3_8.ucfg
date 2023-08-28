@@ -1,0 +1,34 @@
+
+#Program.CreateHostBuilder(string[])N
+DC:\Users\csingare\Desktop\Dot6\src\TemplateApp.ConsoleApp\Program.cs ()"0*ê
+0 (¿
+¼
+ (%/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*'%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]ÓÐ
+ (	/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"½Microsoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)*31
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+""2“ConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)ƒ
+€
+ (	/
+%2)Microsoft.Extensions.Hosting.IHostBuilder"ÂMicrosoft.Extensions.Hosting.HostingHostBuilderExtensions.ConfigureServices(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.Extensions.DependencyInjection.IServiceCollection>)*?=";
+9Microsoft.Extensions.Hosting.HostingHostBuilderExtensions*31
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*
+"""=
+ (	1
+/
+%2)Microsoft.Extensions.Hosting.IHostBuilder*.
+1
+ (
+"
+	 (
+
+implicit return:
+* (7
+argsstring[]B"	
+Program
