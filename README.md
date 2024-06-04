@@ -1,5 +1,5 @@
 # About 
-This is a .NET 6 console app template ready to run.
+This is a .NET 6 console app template ready to run. sample
 
 # Project technologies
 * .NET 6
