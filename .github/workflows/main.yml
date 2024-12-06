@@ -18,12 +18,11 @@ jobs:
 
     - name: Trigger Azure DevOps Pipeline
       env:
-        AZDO_PAT: CWtQuKy2XaplgHdkmf8me0IJmOfN4tN9PrbHODDEcdsltuXx1XHAJQQJ99ALACAAAAADfmnNAAASAZDO7xKD  # Store your Azure DevOps PAT in GitHub secrets
         AZDO_ORG: 'https://sqsglobal.visualstudio.com/tvsmsoftwarefactory'  # Replace with your Azure DevOps organization URL
         AZDO_PROJECT: 'tvsmsoftwarefactory'  # Replace with your Azure DevOps project name
         AZDO_PIPELINE: 'azure-ado-1'  # Replace with your Azure DevOps pipeline name
       run: |
-        curl -u :$AZDO_PAT \
+        curl -u :CWtQuKy2XaplgHdkmf8me0IJmOfN4tN9PrbHODDEcdsltuXx1XHAJQQJ99ALACAAAAADfmnNAAASAZDO7xKD \
              -X POST \
              -H "Content-Type: application/json" \
              -d '{}' \
