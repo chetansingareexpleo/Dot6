@@ -16,7 +16,7 @@ jobs:
       run: |
         ORGANIZATION="chetansingare"
         PROJECT="sample"
-        PIPELINE_ID="_build?definitionId=19" # Replace with the Azure DevOps pipeline ID
+        PIPELINE_ID="definitionId=19" # Replace with the Azure DevOps pipeline ID
  
         # Trigger the pipeline using Azure DevOps REST API
         curl -u ":D8aMf97d9qtBuYdA19ftAWWRjSKj63sDuahr9Uqn9IpH8qYMfpZ8JQQJ99ALACAAAAADfmnNAAASAZDO5WXI" \
