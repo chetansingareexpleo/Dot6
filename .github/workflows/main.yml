@@ -1,25 +1,26 @@
 name: Trigger Azure DevOps Pipeline
-
+ 
 on:
   push:
     branches:
-      - main  # or your target branch
-  pull_request:
-    branches:
-      - main  # or your target branch
-
+      - main  # Change this to the branch you want to trigger the pipeline on
+ 
 jobs:
-  trigger-ado-pipeline:
+  trigger-pipeline:
     runs-on: ubuntu-latest
-
+ 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
     - name: Trigger Azure DevOps Pipeline
+      env:
+        AZURE_DEVOPS_PAT: ${{ secrets.AZURE_DEVOPS_PAT }}
       run: |
+        ORGANIZATION="chetansingare"
+        PROJECT="sample"
+        PIPELINE_ID="19" # Replace with the Azure DevOps pipeline ID
+ 
+        # Trigger the pipeline using Azure DevOps REST API
         curl -u ":D8aMf97d9qtBuYdA19ftAWWRjSKj63sDuahr9Uqn9IpH8qYMfpZ8JQQJ99ALACAAAAADfmnNAAASAZDO5WXI" \
-             -X POST \
-             -H "Content-Type: application/json" \
-             -d '{}' \
-             "https://dev.azure.com/chetansingare/POC/_apis/pipelines/sample/runs?api-version=6.0-preview.1"
+          -X POST \
+          -H "Content-Type: application/json" \
+          -d '{}' \
+          "https://dev.azure.com/$ORGANIZATION/$PROJECT/_apis/pipelines/$PIPELINE_ID/runs?api-version=7.1-preview.1"
