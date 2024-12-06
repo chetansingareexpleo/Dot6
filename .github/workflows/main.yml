@@ -17,13 +17,9 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Trigger Azure DevOps Pipeline
-      env:
-        AZDO_ORG: 'https://sqsglobal.visualstudio.com/tvsmsoftwarefactory'  # Replace with your Azure DevOps organization URL
-        AZDO_PROJECT: 'tvsmsoftwarefactory'  # Replace with your Azure DevOps project name
-        AZDO_PIPELINE: 'azure-ado-1'  # Replace with your Azure DevOps pipeline name
       run: |
-        curl -u :CWtQuKy2XaplgHdkmf8me0IJmOfN4tN9PrbHODDEcdsltuXx1XHAJQQJ99ALACAAAAADfmnNAAASAZDO7xKD \
+        curl -u ":CWtQuKy2XaplgHdkmf8me0IJmOfN4tN9PrbHODDEcdsltuXx1XHAJQQJ99ALACAAAAADfmnNAAASAZDO7xKD" \
              -X POST \
              -H "Content-Type: application/json" \
              -d '{}' \
-             "$AZDO_ORG/$AZDO_PROJECT/_apis/pipelines/$AZDO_PIPELINE/runs?api-version=6.0-preview.1"
+             "https://sqsglobal.visualstudio.com/tvsmsoftwarefactory/_apis/pipelines/azure-ado-1/runs?api-version=6.0-preview.1"
