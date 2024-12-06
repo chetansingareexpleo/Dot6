@@ -23,5 +23,4 @@ jobs:
           -X POST \
           -H "Content-Type: application/json" \
           -d '{}' \
-          "https://dev.azure.com/chetansingare/POC/_apis/pipelines/19/runs?api-version=7.1-preview.1
-"
+          "https://dev.azure.com/chetansingare/POC/_apis/pipelines/19/runs?api-version=7.1-preview.1"
